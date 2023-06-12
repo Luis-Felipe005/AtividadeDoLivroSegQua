@@ -1,0 +1,7 @@
+D:\Users\luis.fpcunha\source\repos\atividadodolivro\atividadodolivro\bin\Debug\atividadodolivro.exe.config
+D:\Users\luis.fpcunha\source\repos\atividadodolivro\atividadodolivro\bin\Debug\atividadodolivro.exe
+D:\Users\luis.fpcunha\source\repos\atividadodolivro\atividadodolivro\bin\Debug\atividadodolivro.pdb
+D:\Users\luis.fpcunha\source\repos\atividadodolivro\atividadodolivro\obj\Debug\atividadodolivro.csproj.AssemblyReference.cache
+D:\Users\luis.fpcunha\source\repos\atividadodolivro\atividadodolivro\obj\Debug\atividadodolivro.csproj.CoreCompileInputs.cache
+D:\Users\luis.fpcunha\source\repos\atividadodolivro\atividadodolivro\obj\Debug\atividadodolivro.exe
+D:\Users\luis.fpcunha\source\repos\atividadodolivro\atividadodolivro\obj\Debug\atividadodolivro.pdb
